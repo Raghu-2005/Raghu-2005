@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghuram</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 🧑‍💻 Currently Building **Scalable full-stack applications with React, Node.js, and modern tools**
 
