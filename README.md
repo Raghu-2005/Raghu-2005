@@ -10,7 +10,6 @@
 - 📄 Know about my experiences [https://flowcv.com/resume/2q216qd3d5](https://flowcv.com/resume/2q216qd3d5)
 
 - ⚡ Fun fact **I turn ideas into deployable code before finishing my coffee.**
-- ![Profile Views](https://komarev.com/ghpvc/?username=Raghu-2005&color=blue)
 
 
 <h3 align="left">Connect with me:</h3>
