@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/Raghu-2005/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
