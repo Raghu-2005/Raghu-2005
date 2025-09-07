@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -46,17 +46,4 @@
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">📊 My GitHub Stats & Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lraghuram14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Raghuram's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraghuram14&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=lraghuram14&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raghu-2005/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
