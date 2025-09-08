@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Raghuram L</h1>
-<h3 align="center">Writing code with calm hands and a curious mind. Optimistic builder & quiet team player.</h3>
+
 
 <img align="right" alt="Coding GIF" width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif">
 
