@@ -1,51 +1,213 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Raghuram L</h1>
-
-
-<img align="right" alt="Coding GIF" width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif">
-
 <div align="center">
-  <p>
-    📫 Reach me at: <a href="mailto:lraghuram14@gmail.com">lraghuram14@gmail.com</a>
-  </p>
+
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghuram%20L&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Raghuram+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=lraghuram14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/lraghuram14?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="Followers"/>
+
 </div>
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/raghuram-l-1193b5259/" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/lraghuram14" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=eqDiO9L02aEu&format=png&color=000000" alt="CodeChef" height="40" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/raghu2005" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" alt="Codeforces" height="40" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/lraghuram14" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode" height="40" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/lraghuram14" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
-  </a>
+---
+
+<!-- ABOUT ME SECTION -->
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+
+### 🧑‍💻 About Me
+
+```yaml
+Name      : Raghuram L
+Location  : India 🇮🇳
+Role      : Full Stack Developer
+Focus     : Web Dev · DSA · Cloud
+Email     : lraghuram14@gmail.com
+Pronouns  : He / Him
+```
+
+- 🔭 Currently building **scalable full-stack applications**
+- 🌱 Deepening expertise in **Cloud Architecture & System Design**
+- 💬 Ask me about **React, Node.js, Python, DSA**
+- ⚡ Fun fact: I debug code faster with lo-fi music 🎧
+- 🏆 Active competitive programmer on **LeetCode, Codeforces & CodeChef**
+- 🤝 Open to **collaborations, internships & open source contributions**
+
+<br clear="right"/>
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lraghuram14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraghuram14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lraghuram14&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=888888" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lraghuram14&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lraghuram14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+| Platform | Profile | Stats |
+|:--------:|:-------:|:-----:|
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> | [lraghuram14](https://leetcode.com/lraghuram14) | 💡 Active Problem Solver |
+| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> | [raghu2005](https://codeforces.com/profile/raghu2005) | ⚡ Regular Contestant |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> | [lraghuram14](https://www.codechef.com/users/lraghuram14) | 🍴 Competitive Coder |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> | [lraghuram14](https://auth.geeksforgeeks.org/user/lraghuram14) | 📚 Knowledge Builder |
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lraghuram14&repo=lraghuram14&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7)](https://github.com/lraghuram14)
+
+</div>
+
+> 💡 *More awesome projects coming soon — stay tuned!*
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+💻 This week I spent most of my time on:
+
+JavaScript   ████████████░░░░░░░░  45%
+Python       ██████░░░░░░░░░░░░░░  22%
+React        █████░░░░░░░░░░░░░░░  18%
+CSS          ███░░░░░░░░░░░░░░░░░  10%
+Other        █░░░░░░░░░░░░░░░░░░░   5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuram-l-1193b5259/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lraghuram14@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lraghuram14)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/raghu2005)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/lraghuram14)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/lraghuram14)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lraghuram14/lraghuram14/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lraghuram14/lraghuram14/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lraghuram14/lraghuram14/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote of the Day
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 "The best way to predict the future is to build it."**
+
+<br/>
+
+*Thanks for stopping by! If you like my work, consider giving a ⭐ to my repos!*
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
