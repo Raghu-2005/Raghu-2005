@@ -10,14 +10,7 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=lraghuram14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/lraghuram14?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="Followers"/>
 
-</div>
-
----
 
 <!-- ABOUT ME SECTION -->
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
@@ -113,7 +106,7 @@ Pronouns  : He / Him
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lraghuram14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?Raghu-2005=lraghuram14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -122,12 +115,12 @@ Pronouns  : He / Him
 
 <div align="center">
 
-| Platform | Profile | Stats |
-|:--------:|:-------:|:-----:|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> | [lraghuram14](https://leetcode.com/lraghuram14) | 💡 Active Problem Solver |
-| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> | [raghu2005](https://codeforces.com/profile/raghu2005) | ⚡ Regular Contestant |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> | [lraghuram14](https://www.codechef.com/users/lraghuram14) | 🍴 Competitive Coder |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> | [lraghuram14](https://auth.geeksforgeeks.org/user/lraghuram14) | 📚 Knowledge Builder |
+| Platform | Profile |
+|:--------:|:-------:|
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> | [lraghuram14](https://leetcode.com/lraghuram14) |
+| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> | [raghu2005](https://codeforces.com/profile/raghu2005) |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> | [lraghuram14](https://www.codechef.com/users/lraghuram14) |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> | [lraghuram14](https://auth.geeksforgeeks.org/user/lraghuram14) |
 
 </div>
 
