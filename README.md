@@ -96,11 +96,6 @@ Pronouns  : He / Him
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lraghuram14&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 
 ## ⚔️ Competitive Programming
 
@@ -121,11 +116,18 @@ Pronouns  : He / Him
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lraghuram14&repo=lraghuram14&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7)](https://github.com/lraghuram14)
+[![Insider Jobs](https://github-readme-stats.vercel.app/api/pin/?username=Raghu-2005&repo=Insider-jobs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7)](https://github.com/Raghu-2005/Insider-jobs)
+
+</div>
+
+<div align="center">
+
+🔗 **Live Demo:** [insider-jobs-jade.vercel.app](https://insider-jobs-jade.vercel.app/)
 
 </div>
 
 > 💡 *More awesome projects coming soon — stay tuned!*
+
 
 ---
 
