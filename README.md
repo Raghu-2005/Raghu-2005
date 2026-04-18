@@ -1,193 +1,288 @@
-<div align="center">
-
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghuram%20L&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Raghuram+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:1a1a2e&height=200&section=header&text=Hey%2C%20I'm%20Raghuram%20%F0%9F%91%8B&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20for%20the%20web%20%E2%80%94%20and%20sometimes%20break%20them%20first%20%F0%9F%98%84&descAlignY=60&descSize=16&descColor=8b949e"/>
 
 <br/>
 
+<!-- ROBOT ANIMATION -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=60&lines=Full+Stack+Developer+%7C+Problem+Solver+%F0%9F%9A%80;Competitive+Programmer+%7C+Open+Source+Lover+%F0%9F%A7%A0;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Cloud+%E2%98%81%EF%B8%8F;I+turn+coffee+into+code+%E2%98%95+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG"/>
+  </a>
+</div>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<br/>
 
-### 🧑‍💻 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raghu-2005&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Raghu-2005?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117&logo=github" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" alt="Open to Work"/>
+</div>
 
-```yaml
-Name      : Raghuram L
-Location  : India 🇮🇳
-Role      : Full Stack Developer
-Focus     : Web Dev · DSA · Cloud
-Email     : lraghuram14@gmail.com
-Pronouns  : He / Him
+<br/>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<!-- ABOUT ME -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="360"/>
+
+<h2>🧑‍💻 Who am I?</h2>
+
+I'm a **Full Stack Developer** from India who loves turning ideas into real, working products. Whether it's a slick UI or a robust backend API — I enjoy every layer of the stack.
+
+🔭 &nbsp;Currently crafting **Insider Jobs** — a smart job platform  
+🌱 &nbsp;Leveling up in **System Design & Cloud Architecture**  
+💬 &nbsp;Hit me up about **React, Node.js, Python, or DSA**  
+🎧 &nbsp;I debug best with lo-fi music in the background  
+🤝 &nbsp;Actively looking for **internships & collaborations**  
+⚡ &nbsp;Fun fact: My commit messages go from *"fix"* to *"FINAL fix"* to *"ok this is actually the last fix"*
+
+<br/>
+
+```javascript
+const raghuram = {
+  location   : "India 🇮🇳",
+  role       : "Full Stack Developer",
+  currentWork: "Insider Jobs Platform",
+  learning   : ["System Design", "AWS", "DevOps"],
+  hobbies    : ["Competitive Programming", "Open Source", "Lo-fi Music"],
+  contact    : "lraghuram14@gmail.com",
+  motto      : "Code it. Ship it. Improve it. 🚀"
+};
 ```
-
-- 🔭 Currently building **scalable full-stack applications**
-- 🌱 Deepening expertise in **Cloud Architecture & System Design**
-- 💬 Ask me about **React, Node.js, Python, DSA**
-- ⚡ Fun fact: I debug code faster with lo-fi music 🎧
-- 🏆 Active competitive programmer on **LeetCode, Codeforces & CodeChef**
-- 🤝 Open to **collaborations, internships & open source contributions**
 
 <br clear="right"/>
 
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-
-<!-- TECH STACK -->
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### ☁️ Cloud, DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-
-
-## 📊 GitHub Analytics
-
+<!-- TECH STACK SECTION BANNER -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lraghuram14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraghuram14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lraghuram14&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=888888" alt="GitHub Streak"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🛠️%20%20Tech%20Stack%20%26%20Tools&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
 </div>
 
 <br/>
 
-
-## ⚔️ Competitive Programming
-
 <div align="center">
 
-| Platform | Profile |
-|:--------:|:-------:|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> | [lraghuram14](https://leetcode.com/lraghuram14) |
-| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> | [raghu2005](https://codeforces.com/profile/raghu2005) |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> | [lraghuram14](https://www.codechef.com/users/lraghuram14) |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> | [lraghuram14](https://auth.geeksforgeeks.org/user/lraghuram14) |
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7"/>
+
+<br/><br/>
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql&theme=dark&perline=6"/>
+
+<br/><br/>
+
+**☁️ Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,linux&theme=dark&perline=7"/>
+
+<br/><br/>
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </div>
 
+<br/>
 
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 
-## 🌟 Featured Projects
+<!-- GITHUB ANALYTICS BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=📊%20%20GitHub%20Analytics&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Raghu-2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu-2005&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Raghu-2005&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghu-2005&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0a3d62&area=true&hide_border=true&custom_title=Raghuram's%20Contribution%20Graph" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
+<!-- TROPHIES BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🏆%20%20GitHub%20Trophies&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raghu-2005&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies"/>
+</div>
+
+<br/>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<!-- FEATURED PROJECT BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🚀%20%20Featured%20Project&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-[![Insider Jobs](https://github-readme-stats.vercel.app/api/pin/?username=Raghu-2005&repo=Insider-jobs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7)](https://github.com/Raghu-2005/Insider-jobs)
+<a href="https://github.com/Raghu-2005/Insider-jobs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghu-2005&repo=Insider-jobs&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Insider Jobs"/>
+</a>
+
+<br/><br/>
+
+<a href="https://insider-jobs-jade.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-insider--jobs--jade.vercel.app-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/Raghu-2005/Insider-jobs" target="_blank">
+  <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-238636?style=for-the-badge&labelColor=0d1117&logo=github"/>
+</a>
+
+<br/><br/>
+
+**🔧 Built with:**&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
 </div>
+
+<br/>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- COMPETITIVE PROGRAMMING BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=⚔️%20%20Competitive%20Programming&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-🔗 **Live Demo:** [insider-jobs-jade.vercel.app](https://insider-jobs-jade.vercel.app/)
+| &nbsp;&nbsp;&nbsp;Platform&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
+|:---:|:---:|:---:|
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lraghuram14) | **[lraghuram14](https://leetcode.com/lraghuram14)** | 🟡 Active Solver |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/raghu2005) | **[raghu2005](https://codeforces.com/profile/raghu2005)** | 🔵 Contestant |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/lraghuram14) | **[lraghuram14](https://www.codechef.com/users/lraghuram14)** | 🍴 Competitive Coder |
+| [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/lraghuram14) | **[lraghuram14](https://auth.geeksforgeeks.org/user/lraghuram14)** | 📚 Knowledge Builder |
 
 </div>
 
-> 💡 *More awesome projects coming soon — stay tuned!*
+<br/>
 
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 
-
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-💻 This week I spent most of my time on:
-
-JavaScript   ████████████░░░░░░░░  45%
-Python       ██████░░░░░░░░░░░░░░  22%
-React        █████░░░░░░░░░░░░░░░  18%
-CSS          ███░░░░░░░░░░░░░░░░░  10%
-Other        █░░░░░░░░░░░░░░░░░░░   5%
-```
-<!--END_SECTION:waka-->
-
-
-
-## 🤝 Connect With Me
-
+<!-- SNAKE BANNER -->
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuram-l-1193b5259/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lraghuram14@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lraghuram14)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/raghu2005)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/lraghuram14)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/lraghuram14)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🐍%20%20Watch%20my%20contributions%20get%20eaten&fontSize=20&fontColor=58a6ff&animation=fadeIn"/>
 </div>
+
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
+<br/>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
+<!-- CONNECT BANNER -->
 <div align="center">
-
-### 💭 Dev Quote of the Day
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🤝%20%20Let's%20Connect%20%26%20Build%20Together&fontSize=20&fontColor=58a6ff&animation=fadeIn"/>
 </div>
-
-
-
-<div align="center">
-
-**💡 "The best way to predict the future is to build it."**
 
 <br/>
 
-*Thanks for stopping by! If you like my work, consider giving a ⭐ to my repos!*
+<div align="center">
+
+<a href="https://linkedin.com/in/raghuram-l-1193b5259/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:lraghuram14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/lraghuram14">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/raghu2005">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/lraghuram14">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/lraghuram14">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
 
 <br/>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote"/>
 </div>
+
+<br/>
+
+<!-- CLOSING GIF + STAR PLEA -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-54f459fc7ddb.gif" width="200"/>
+  <br/><br/>
+  <b>⭐ If you find my work interesting, give my repos a star — it means a lot! 🙏</b>
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0a3d62,100:0d1117&height=120&section=footer"/>
