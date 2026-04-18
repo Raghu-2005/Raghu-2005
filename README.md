@@ -101,15 +101,6 @@ Pronouns  : He / Him
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lraghuram14&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/Raghu-2005=lraghuram14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
-</div>
-
----
 
 ## ⚔️ Competitive Programming
 
@@ -167,19 +158,13 @@ Other        █░░░░░░░░░░░░░░░░░░░   5%
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lraghuram14/lraghuram14/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lraghuram14/lraghuram14/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lraghuram14/lraghuram14/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Raghu-2005/Raghu-2005/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
-
----
 
 <div align="center">
 
