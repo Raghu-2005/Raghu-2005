@@ -62,10 +62,7 @@ const raghuram = {
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- TECH STACK SECTION BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🛠️%20%20Tech%20Stack%20%26%20Tools&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
-</div>
+
 
 <br/>
 
@@ -134,10 +131,7 @@ const raghuram = {
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
-<!-- TROPHIES BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=50&text=🏆%20%20GitHub%20Trophies&fontSize=22&fontColor=58a6ff&animation=fadeIn"/>
-</div>
+
 
 <br/>
 
