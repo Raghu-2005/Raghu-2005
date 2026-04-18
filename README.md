@@ -35,7 +35,7 @@ Pronouns  : He / Him
 
 <br clear="right"/>
 
----
+
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack & Tools
@@ -81,7 +81,7 @@ Pronouns  : He / Him
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -110,7 +110,7 @@ Pronouns  : He / Him
 
 </div>
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -129,7 +129,7 @@ Pronouns  : He / Him
 > 💡 *More awesome projects coming soon — stay tuned!*
 
 
----
+
 
 ## 📈 Coding Activity
 
@@ -145,7 +145,7 @@ Other        █░░░░░░░░░░░░░░░░░░░   5%
 ```
 <!--END_SECTION:waka-->
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -176,7 +176,7 @@ Other        █░░░░░░░░░░░░░░░░░░░   5%
 
 </div>
 
----
+
 
 <div align="center">
 
