@@ -186,7 +186,6 @@ const raghuram = {
 
 | &nbsp;&nbsp;&nbsp;Platform&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
 |:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lraghuram14) | **[lraghuram14](https://leetcode.com/lraghuram14)** | 🟡 Active Solver |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/raghu2005) | **[raghu2005](https://codeforces.com/profile/raghu2005)** | 🔵 Contestant |
 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/lraghuram14) | **[lraghuram14](https://www.codechef.com/users/lraghuram14)** | 🍴 Competitive Coder |
 | [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/lraghuram14) | **[lraghuram14](https://auth.geeksforgeeks.org/user/lraghuram14)** | 📚 Knowledge Builder |
@@ -229,10 +228,6 @@ const raghuram = {
 &nbsp;
 <a href="mailto:lraghuram14@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/lraghuram14">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/raghu2005">
