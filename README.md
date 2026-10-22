@@ -17,8 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raghu-2005&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
+  
   <img src="https://img.shields.io/github/followers/Raghu-2005?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117&logo=github" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" alt="Open to Work"/>
